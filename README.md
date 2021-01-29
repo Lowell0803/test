@@ -1,3 +1,5 @@
 # Hello world!
 
-# Lorem ipsum
+# Lorem ipsum ...
+
+# Changes limited to 'new' branch.
